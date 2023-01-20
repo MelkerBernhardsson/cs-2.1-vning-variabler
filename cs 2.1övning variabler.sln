@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs 2.1övning variabler", "cs 2.1övning variabler\cs 2.1övning variabler.csproj", "{7CB88188-7738-4821-820C-CAC1803288DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CB88188-7738-4821-820C-CAC1803288DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CB88188-7738-4821-820C-CAC1803288DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CB88188-7738-4821-820C-CAC1803288DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CB88188-7738-4821-820C-CAC1803288DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBDF849C-BDCC-4CFB-A1F5-44E850437D58}
+	EndGlobalSection
+EndGlobal
